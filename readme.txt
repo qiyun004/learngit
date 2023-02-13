@@ -8,3 +8,4 @@ Creating a new branch is quick.
 
 sourceTree12
 添加了秘钥
+推送到远程
